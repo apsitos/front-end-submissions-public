@@ -14,10 +14,10 @@
 # Basics
 
 #### Link to the Github Repository for the Project
-[Your projects's repo URL](https://github.com/apsitos/HappyHourAPI)
+[My projects's repo URL](https://github.com/apsitos/HappyHourAPI)
 
 #### Link to the Deployed API
-[Your project's production URL](https://hhapi-ap.herokuapp.com/)
+[My project's production URL](https://hhapi-ap.herokuapp.com/)
 
 ## Completion
 
